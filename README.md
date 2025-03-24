@@ -24,4 +24,4 @@ This repository contains bioinformatics analysis of the SARS-CoV-2 spike (S) gly
 
 ## License
 
-MIT License (see LICENSE file)
+- Apache License
